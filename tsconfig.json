@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+  },
+  "files": [
+    "./src/index.ts"
+  ]
+}

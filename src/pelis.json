@@ -1,0 +1,47 @@
+[
+  {
+      "id": 1,
+      "title":"Alien",
+      "releaseDate": "1979",
+      "genre":["horror","sci-fi"],
+      "rating": "8.5",
+      "calification":"very good",
+      "comment": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission"
+  },
+  {
+      "id": 2,
+      "title":"Léon:The Professional",
+      "releaseDate": "1994",
+      "genre": ["action","crime","drama"],
+      "rating": "8.5",
+      "calification":"excellent",
+      "comment": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+  },
+  {
+      "id": 3,
+      "title":"Spider-Man: No Way Home",
+      "releaseDate": "2021",
+      "genre": ["action","adventure","fantasy"],
+      "rating": "8.3",
+      "calification":"very good",
+      "comment": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+  },
+  {
+      "id": 4,
+      "title":"Westworld",
+      "releaseDate": "2016",
+      "genre": ["drama","mystery","sci-fi"],
+      "rating": "8.5",
+      "calification":"very good",
+      "comment": "At the intersection of the near future and the reimagined past, waits a world in which every human appetite can be indulged without consequence."
+  },
+  {
+    "id": 5,
+    "title":"X",
+    "releaseDate": "2022",
+    "genre": ["horror"],
+    "rating": "8.5",
+    "calification":"very good",
+    "comment": "At the intersection of the near future and the reimagined past, waits a world in which every human appetite can be indulged without consequence."
+}
+]
